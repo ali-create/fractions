@@ -1,3 +1,4 @@
+console.warn("To view the sites source-code, go to ")
 let fractionOne;
 let fractionTwo;
 document.querySelector(".btn").addEventListener("click", function () {
