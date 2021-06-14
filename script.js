@@ -1,4 +1,4 @@
-console.warn("To view the sites source-code, go to https://file.io/czHbQiVgg5f1.")
+console.warn("To view the sites source-code, go to https://www.mediafire.com/file/1egvj853icue1ej/fraction+cal.zip/file.")
 let fractionOne;
 let fractionTwo;
 document.querySelector(".btn").addEventListener("click", function () {
