@@ -1,3 +1,4 @@
+alert("This website is outdated, please use this website for 2 and 3 digit numbers. https://fractioncomparing.netlify.app/")
 console.warn("To download the sites source-code, go to https://www.mediafire.com/file/1egvj853icue1ej/fraction+cal.zip/file.")
 let fractionOne;
 let fractionTwo;
